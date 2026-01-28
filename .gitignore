@@ -208,3 +208,4 @@ __marimo__/
 
 # VS code junk 
 .vscode/
+.DS_Store
