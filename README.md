@@ -3,6 +3,8 @@
 These are the course materials for the practical course **Machine Learning for Biomarker Discovery**, led by Griffin Farrow and Dan Woodcock.  
 For any course-specific questions, please contact the course organisers directly.
 
+Click here to open the course content in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griffinfarrow/ML_for_Biomarker_Discovery/blob/main/practical_exercises.ipynb)
+
 ---
 
 ## Course overview
